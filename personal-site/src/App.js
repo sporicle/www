@@ -7,7 +7,7 @@ import Writings from './Writings';
 const App = () => {
   const terminalStyle = {
     backgroundColor: 'black',
-    color: 'lime',
+    color: 'white',
     fontFamily: 'monospace',
     height: '100vh',
     padding: '2rem',
@@ -26,7 +26,7 @@ const App = () => {
 
   const linkStyle = {
     textDecoration: 'none',
-    color: 'lime',
+    color: 'white',
     paddingRight: '3em',
   };
 
